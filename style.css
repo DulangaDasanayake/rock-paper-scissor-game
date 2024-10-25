@@ -3,5 +3,15 @@ body {
   font-family: Arial, sans-serif;
 }
 #game{
-    
+    margin-top: 20px;
+}
+button{
+  padding: 10px 20px;
+  font-size: 16px;
+  margin:10px;
+}
+#result{
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
 }
